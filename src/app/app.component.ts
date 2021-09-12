@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'Roosa Poni';
+  greeting: string;
+  ngOnInit() {
+    this.greeting = 'we are the music makers and we are the dreamers of dreams';
+  }
 }

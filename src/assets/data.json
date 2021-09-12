@@ -1,0 +1,23 @@
+{
+  "header": {
+    "greeting": "hello, we are roosa poni and we make electronic music by mixing together voice and live coded algorithmic signal processing"
+  },
+  "audio": {
+    "kaval-sviri": {
+      "title": "kaval sviri",
+      "embed_url": "https://api.soundcloud.com/tracks/1122933853"
+    },
+    "after": {
+      "title": "after",
+      "embed_url": "https://api.soundcloud.com/tracks/657330572"
+    },
+    "sinine-maa": {
+      "title": "sinine maa",
+      "embed_url": "https://api.soundcloud.com/tracks/650080943"
+    },
+    "live-rose-hill": {
+      "title": "live at rose hill tavern",
+      "embed_url": "https://api.soundcloud.com/tracks/633107142"
+    }
+  }
+}

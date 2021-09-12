@@ -1,0 +1,17 @@
+h2{
+  font-size: 31pt;
+}
+
+#header{
+  color: #eb3489;
+}
+
+#greeting{
+  border-radius: 4pt;
+  border: 1pt #555 solid;
+  background:rgba(17,17,17,0.5);
+  margin-top: 20px;
+  font-size: 20px;
+  width: 50%;
+  padding: 20px;
+}
